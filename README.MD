@@ -6,6 +6,6 @@ Requires the font "Pacifico": https://fonts.google.com/specimen/Pacifico
 - change background pdf in bingo_card.tex & traits.tex
 - set configurations in bingo.py
 
-Run: 
-- python bingo.py --n-cards <n_cards>
-- produces n_cards randomized bingo cards
+Run: python bingo.py --n-cards <n_cards>
+    - produces n_cards randomized bingo cards
+    - sometimes the card background is buggy -> rerun
