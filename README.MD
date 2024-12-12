@@ -7,5 +7,5 @@ Requires the font "Pacifico": https://fonts.google.com/specimen/Pacifico
 - set configurations in bingo.py
 
 Run: python bingo.py --n-cards <n_cards>
-    - produces n_cards randomized bingo cards
-    - sometimes the card background is buggy -> rerun
+- produces n_cards randomized bingo cards
+- sometimes the card background is buggy -> rerun
